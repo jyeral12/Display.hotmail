@@ -1,0 +1,51 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot",
+    "class",
+    "vehiculos",
+    {
+      [
+        {
+          "Marca": "Totoya",
+          "Modelo": "GR Yaris",
+          "Precio": "120000",
+          "Color": "Gris",
+          "Año": "2018",
+          "Puertas": "4",
+          "Motor": "turbo 1.6",
+          "Comentario": "cuidenlo"
+        },
+        {
+          "Marca": "Honda",
+          "Modelo": "corrola",
+          "Precio": "700000",
+          "Color": "Negro",
+          "Año": "2019",
+          "Puertas": "4",
+          "Motor": "turbo 2.4",
+          "Comentario": "Debe estar nuevo"
+        },
+        {
+          "Marca": "df",
+          "Modelo": "dsf",
+          "Precio": "dsf",
+          "Color": "sdfds",
+          "Año": "fsd",
+          "Puertas": "fsd",
+          "Motor": "fds",
+          "Comentario": "fdf"
+        }
+      ]
+    }
+}
+
+  ]
+}
